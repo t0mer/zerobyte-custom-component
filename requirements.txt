@@ -1,0 +1,3 @@
+homeassistant
+py-zerobyte>=1.3.0
+voluptuous
