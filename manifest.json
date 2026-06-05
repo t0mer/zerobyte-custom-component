@@ -1,0 +1,11 @@
+{
+    "domain": "zerobyte",
+    "name": "Zerobyte",
+    "version": "1.0.0",
+    "codeowners": ["@t0mer"],
+    "config_flow": true,
+    "iot_class": "local_polling",
+    "requirements": ["py-zerobyte>=1.3.0"],
+    "documentation": "https://github.com/t0mer/zerobyte-custom-component",
+    "issue_tracker": "https://github.com/t0mer/zerobyte-custom-component/issues"
+}
