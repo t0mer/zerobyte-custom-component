@@ -8,7 +8,7 @@ A [Home Assistant](https://www.home-assistant.io/) custom integration for [Zerob
 
 ## Zerobyte Application
 
-![Zerobyte Application](assets/screenshots/zerobyte_dashboard.png)
+![Zerobyte Application](https://raw.githubusercontent.com/t0mer/zerobyte-custom-component/main/assets/screenshots/zerobyte_dashboard.png)
 
 Zerobyte provides a web-based UI to manage restic backup repositories, backup volumes, and scheduled jobs. This integration brings all of that data into Home Assistant as sensors, switches, and action buttons.
 
@@ -40,7 +40,7 @@ Because this integration is not in the default HACS store, add it as a **custom 
 
 1. Open **HACS** in Home Assistant.
 
-   ![HACS Integrations](assets/screenshots/hacs_integrations.png)
+   ![HACS Integrations](https://raw.githubusercontent.com/t0mer/zerobyte-custom-component/main/assets/screenshots/hacs_integrations.png)
 
 2. Click the **⋮** (three-dot) menu in the top-right corner and choose **Custom repositories**.
 
@@ -57,7 +57,7 @@ Because this integration is not in the default HACS store, add it as a **custom 
 
 Search for **Zerobyte** in the HACS integrations list:
 
-![HACS Search](assets/screenshots/hacs_search.png)
+![HACS Search](https://raw.githubusercontent.com/t0mer/zerobyte-custom-component/main/assets/screenshots/hacs_search.png)
 
 Click the **Zerobyte** card, then click **Download** and confirm. Wait for the download to complete.
 
@@ -77,7 +77,7 @@ After restarting, add the integration through the standard HA flow.
 
 Go to **Settings → Devices & Services** and click **+ Add integration**.
 
-![Add Integration](assets/screenshots/add_integration_dialog.png)
+![Add Integration](https://raw.githubusercontent.com/t0mer/zerobyte-custom-component/main/assets/screenshots/add_integration_dialog.png)
 
 Search for **Zerobyte** and click the result.
 
